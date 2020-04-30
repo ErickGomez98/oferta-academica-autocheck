@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "aws-sdk": "^2.592.0",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "node-fetch": "^2.6.0"
   }
 }
